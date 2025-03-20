@@ -2,6 +2,6 @@
 
 ## Files created
 medical-malpractice-dataset/
-├── (link unavailable)
+├── https://github.com/HopeMohola/Medical-Malpractice-Claims/blob/main/medicalmalpractice.csv
 ├── LICENSE
 └── dataset.csv
